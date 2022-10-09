@@ -1,7 +1,23 @@
 .App {
   margin: 30px auto;
   max-width: 500px;
-  border: 1px solid gray;
-  border-radius: 5px;
-  padding: 0 15px;
+}
+
+.github-link,
+.github-link + span {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #48a8f5;
+  font-size: 14px;
+}
+
+.github-link {
+  margin-top: 15px;
+  text-decoration: underline;
+}
+
+.github-link + span {
+  color: gray;
+  opacity: 0.5;
 }

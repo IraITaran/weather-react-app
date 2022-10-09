@@ -6,9 +6,14 @@ function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="Bali" />
-        <a class="github-link" href="/" target="_blank">
+        <a
+          className="github-link"
+          href="https://github.com/IraITaran/weather-react-app"
+          target="_blank"
+        >
           Open-source code
         </a>
+
         <span>by Iryna Taran</span>
       </div>
     </div>

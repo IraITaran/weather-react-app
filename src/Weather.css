@@ -1,6 +1,9 @@
 .Weather {
   margin: 20px 0;
   color: #42a5f5;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 20px 15px;
 }
 
 h1 {
