@@ -10,6 +10,7 @@ function App() {
           className="github-link"
           href="https://github.com/IraITaran/weather-react-app"
           target="_blank"
+          rel="noreferrer"
         >
           Open-source code
         </a>
