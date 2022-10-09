@@ -1,0 +1,14 @@
+.Weather {
+  margin: 20px 0;
+  color: #42a5f5;
+}
+
+h1 {
+  color: #42a5f5;
+  clear: both;
+  text-align: center;
+}
+
+.submit-btn {
+  margin-left: 10px;
+}

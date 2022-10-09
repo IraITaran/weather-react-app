@@ -1,0 +1,48 @@
+.current-city {
+  font-size: 50px;
+}
+
+.current-temperature {
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  top: -70px;
+  left: 103px;
+}
+
+.units {
+  opacity: 0.4;
+  font-weight: normal;
+  font-size: 17px;
+}
+
+.celcius {
+  text-decoration: none;
+  color: black;
+}
+
+.fahrenheit {
+  text-decoration: none;
+  color: black;
+}
+
+.extra-features {
+  color: black;
+  opacity: 0.5;
+  font-size: 16px;
+  font-weight: 700;
+  display: inline-block;
+}
+
+.WeatherDay {
+  position: relative;
+  left: 103px;
+  top: -60px;
+  content: "";
+  margin-bottom: 9px;
+}
+
+img {
+  width: 65px;
+  height: 65px;
+}
