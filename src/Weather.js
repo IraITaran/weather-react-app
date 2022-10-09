@@ -5,8 +5,7 @@ import SearchInfo from "./SearchInfo";
 
 export default function Weather(props) {
   const [city, setCity] = useState(props.defaultCity);
-  const [weatherData, setWeatherData] = useState({});
-  const [loaded, setLoaded] = useState(false);
+  const [weatherData, setWeatherData] = useState({ loaded: false });
 
   function handleSubmit(e) {
     e.preventDefault();
