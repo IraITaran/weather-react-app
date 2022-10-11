@@ -1,0 +1,12 @@
+.WeatherForecastDay {
+  text-align: center;
+}
+
+.forecast-temperatures {
+  font-size: 14px;
+}
+
+.forecast-temperature-min {
+  color: black;
+  opacity: 0.4;
+}
